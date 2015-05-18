@@ -9,7 +9,7 @@ else
   gem 'mongoid', version
 end
 
-gem 'mongoid_slug'
+gem 'mongoid-slug'
 
 group :development, :test do
   gem 'rspec', '~> 3.1'

@@ -7,7 +7,7 @@ module Mongoid
     DEFAULT_COLLECTION_KEY_NAME = '*'
 
     included do
-      require 'mongoid_slug'
+      require 'mongoid-slug'
 
       include Mongoid::Document
       include Mongoid::Timestamps::Created

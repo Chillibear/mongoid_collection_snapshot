@@ -1,5 +1,10 @@
 Next Release
-------------
+------------     
+
+1.1.0x
+-----
+* patch to use mongoid-slug rather than mongoid_slug
+
 
 1.1.0
 -----
